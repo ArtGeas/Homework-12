@@ -1,0 +1,41 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:34:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:34:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:34:57] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:34:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:35:34] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:35:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:40:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:40:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:40:57] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:40:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:40:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:40:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:20] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ита
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:40] "GET /search?s=ита HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 14:41:40] "[36mGET /uploads/poberezhe-italii.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
